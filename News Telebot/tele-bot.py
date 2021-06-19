@@ -37,7 +37,7 @@ def getShortMsg(message):
 
 
 def getNews(country,category):
-    message="test"
+    message=""
     ping_url=base_url+category+"/"+country+".json"
     response = requests.get(ping_url)
     news=json.loads(response.content)
