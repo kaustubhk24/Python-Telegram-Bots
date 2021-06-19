@@ -1,5 +1,10 @@
 # Python Telegram Bots
 
+![ViewCount](https://views.whatilearened.today/views/github/kaustubhk24/Python-Telegram-Bots.svg) [![GitHub issues](https://img.shields.io/github/issues/kaustubhk24/Python-Telegram-Bots)](https://github.com/kaustubhk24/Python-Telegram-Bots/issues)  [![GitHub forks](https://img.shields.io/github/forks/kaustubhk24/Python-Telegram-Bots)](https://github.com/kaustubhk24/Python-Telegram-Bots/network) [![GitHub stars](https://img.shields.io/github/stars/kaustubhk24/Python-Telegram-Bots)](https://github.com/kaustubhk24/Python-Telegram-Bots/stargazers) [![GitHub license](https://img.shields.io/github/license/kaustubhk24/Python-Telegram-Bots)](https://github.com/kaustubhk24/Python-Telegram-Bots/blob/master/License.txt) 
+![GitHub search hit counter](https://img.shields.io/github/search/kaustubhk24/Python-Telegram-Bots/Python-Telegram-Bots)
+===========================
+
+
 ## Examples of bot developed
  First open the folder of bot you want to deploy and then open `tele-bot.py`  on 2nd line of this file just change value of `api_key` with your `API KEY [HTTP Access Token]`, Now you can deploy bot directly No other changes required
 
