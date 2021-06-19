@@ -6,10 +6,10 @@
 
 
 ## Bots
-* [IFSC Finder Telebot](https://github.com/kaustubhk24/Python-Telegram-Bots/#IFSC%20Finder%20Telebot)
-* [News Telebot](https://github.com/kaustubhk24/Python-Telegram-Bots/#News%20Telebot)
-* [Meme Bot](https://github.com/kaustubhk24/Python-Telegram-Bots/#Meme%20Bot)
-* [Image Search](https://github.com/kaustubhk24/Python-Telegram-Bots/#Image%20Search)
+* [IFSC Finder Telebot](https://github.com/kaustubhk24/Python-Telegram-Bots/#ifsc-finder-telebot)
+* [News Telebot](https://github.com/kaustubhk24/Python-Telegram-Bots/#news-telebot)
+* [Meme Bot](https://github.com/kaustubhk24/Python-Telegram-Bots/#meme-bot)
+* [Image Search](https://github.com/kaustubhk24/Python-Telegram-Bots/#image-search)
 
 ### IFSC Finder Telebot
 ### News Telebot
