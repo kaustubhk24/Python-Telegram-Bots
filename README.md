@@ -23,7 +23,7 @@ To use IFSC Finder just send any IFSC Code as message to bot, In reply it will s
 example `MAHB0001012`
 ### News Telebot
 Get filtered news with Given Filters like country,category
-example input  `in_business` this will send you all indian business news to you.
+example input  `in_business` this will send you all indian business news .
 
 #### Countries Available
 ```
@@ -46,7 +46,7 @@ technology
 
 ```
 ### Meme Bot
-Meme bot is only contain one file that saves all the messages sent to it and take any message randomly and sends to user in return that's it.
+Meme bot  contain only  one file that saves all the messages sent to it and take any message randomly and sends to user in reply that's it.
 To train this we need ```train- Traning Phrase ```
 ### Image Search
 Image search Downloads number of images from Bing, Just Send input as ```Query_number of images```
